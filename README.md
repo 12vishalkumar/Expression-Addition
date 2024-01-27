@@ -1,7 +1,7 @@
 # Expression Addition Application
 ✍ This assignment involves developing a web-based Expression Engine UI using React and Bootstrap, focusing on creating a responsive and visually appealing interface. The core functionality includes a form for users to input expressions with fields such as Rule Type (Age, Credit Score, Account Balance), Operator (>, <, ≥, ≤, =), Value, and Score, along with the ability to choose a connector type (AND/OR). Users should be able to add and delete expressions. The expected output is a structured JSON representing the user-defined rules and combinator.
 
-### Click the Go Live button and see the live👉 [Go Live]()
+### Click the Go Live button and see the live👉 [Go Live](https://expression-addition.netlify.app)
 
 ## Installation
 - Install the required dependencies using npm install.
